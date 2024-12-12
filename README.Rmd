@@ -22,7 +22,7 @@ The goal of MissingValueImputer is to provide tools to handle missing values in 
 
 ## Installation
 
-You can install the development version of MissingValueImputer from [GitHub](https://github.com/) with:https://github.com/AinaRashid/ImputerForMissingValue
+You can install the development version of MissingValueImputer from [GitHub](https://github.com/) with:https://github.com/AinaRashid/MissingValueImputer
 
 ``` r
 # install.packages("pak")
